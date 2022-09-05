@@ -1,13 +1,13 @@
 
 # BloodBank
 
-BloodBank smart contract is just a demo application showing how a hospital can keep the track of its blood donar using the smart contract so that the data can not be manipulated and any required person can see the data easily.
+BloodBank smart contract is just a demo application showing how a hospital can keep the track of its blood donor using the smart contract so that the data can not be manipulated and any required person can see the data easily.
 
 You can refer to my youtube channel and watch the video, where I have explained all the concepts related to the project. 
 
 Link: https://www.youtube.com/watch?v=R5za6I79EIw&list=PLijwWW8jLAree5Q46dVRQEP8zgIEmUsgx&ab_channel=BlockchainVidyaalay 
 
-## Scoop of Improvement:
+## Scope of Improvement:
 
 You can implement some changes in the smart contract and make it more better. I am listing down few changes here, rest you can implement based on how you want to change the smart contract.
 
